@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="lunfantu:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/lunfantu_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="lunfantu/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="lunfantu" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
